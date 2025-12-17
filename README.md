@@ -13,16 +13,17 @@ El cuerpo documental forma un todo consistente que guía al lector desde la abst
 *   **01 Visión**: Establece el **porqué** (Manifiesto, UI Efímera, Ingeniería Simbiótica).
 *   **02 Creación**: Establece la **estrategia** (Ciclos Duales: Primera Piel/Morfogénesis).
 *   **03 Horizonte**: Aterriza la estrategia en **estimación y riesgos** (El puente entre visión y realidad).
-*   **04 Camino**: Define la **filosofía de movimiento** (Convergencia Progresiva, Coherencia Multi-ciclo).
-*   **05 Travesía**: Introduce la **unidad operativa** (El Artefacto: Intención + Realización + Verificación).
-*   **06 Terreno**: Define el **entorno de trabajo** (Catálogo Vivo, Reglas Estructurales).
-*   **07 Aterrizaje**: Detalla la **operativa diaria** (Flujos IDE, Verificación Distribuida).
+*   **04 Camino**: Define las **dinámicas de coherencia** (Fijar Intención, Regenerar con Sentido, Convergencia Progresiva).
+*   **05 Travesía**: Introduce la **unidad constructiva** (El Artefacto: Intención + Realización + Verificación).
+*   **06 Terreno**: Define el **marco estructural** (Catálogo Vivo, Reglas Estructurales).
+*   **07 Aterrizaje**: Detalla los **principios operativos** (Flujos IDE, Verificación Distribuida).
 
 ---
 
 ## [01 Visión](01%20Visión)
 **El Manifiesto.** Establece los principios fundacionales del nuevo paradigma. Aquí definimos por qué el modelo tradicional de desarrollo ha quedado obsoleto y presentamos los pilares del futuro: interfaces que nacen y mueren (UI Efímera), equipos que dirigen inteligencias (Ingeniería Simbiótica) y sistemas diseñados para evolucionar eternamente (Sistemas Regenerables).
 
+* [📄 Visión Conceptual (PDF)](01%20Visión/_VisiónConceptual.pdf)
 * [0. Visión Conceptual - El Nuevo Canon del Software](01%20Visión/0.%20Visión%20Conceptual%20-%20El%20Nuevo%20Canon%20del%20Software.md)
 * [1. UI Efímera](01%20Visión/1.%20UI%20Efímera.md)
 * [2. Ingeniería Simbiótica](01%20Visión/2.%20Ingenierí­a%20Simbiótica.md)
@@ -36,6 +37,7 @@ El cuerpo documental forma un todo consistente que guía al lector desde la abst
 ## [02 Creación](02%20Creación)
 **La Estrategia.** Define cómo abordar un proyecto *greenfield* de alta complejidad reduciendo la incertidumbre. Introduce el modelo de **"Doble Velocidad"**: un Ciclo Exploratorio (*Primera Piel*) para descubrir y validar rápido, y un Ciclo Fundacional (*Morfogénesis*) para estructurar y consolidar lo aprendido.
 
+* [📄 Estrategia (PDF)](02%20Creación/_Estrategia.pdf)
 * [0. Primeras Etapas del Desarrollo](02%20Creación/0.%20Primeras%20Etapas%20del%20Desarrollo.md)
 * [A. Gestando el Futuro](02%20Creación/A.%20Gestando%20el%20Futuro.md)
 * [B. La Primera Piel](02%20Creación/B.%20La%20Primera%20Piel.md)
@@ -47,6 +49,7 @@ El cuerpo documental forma un todo consistente que guía al lector desde la abst
 ## [03 Horizonte](03%20Horizonte)
 **La Estimación.** Aterriza la estrategia en la realidad del proyecto actual. Utiliza el modelo de ciclos definido en *Creación* para construir un marco de estimación y análisis de riesgos honesto. No oculta la incertidumbre, sino que la estructura para hacerla gestionable.
 
+* [📄 Estimación y Riesgos (PDF)](03%20Horizonte/_EstimaciónYRiesgos.pdf)
 * [I. Estimando lo Desconocido](03%20Horizonte/I.%20Estimando%20lo%20Desconocido.md)
 * [II. El Modelo en Relieve](03%20Horizonte/II.%20El%20Modelo%20en%20Relieve.md)
 * [III. Sombras en el Horizonte](03%20Horizonte/III.%20Sombras%20en%20el%20Horizonte.md)
@@ -54,8 +57,9 @@ El cuerpo documental forma un todo consistente que guía al lector desde la abst
 ---
 
 ## [04 Camino](04%20Camino)
-**La Filosofía de Movimiento.** Explica cómo mantener la coherencia mientras el sistema avanza a múltiples velocidades. Introduce conceptos clave como *Fijar Intención* (declarar el qué antes del cómo) y *Convergencia Progresiva* (cómo la exploración y la fundación se encuentran mediante la realimentación).
+**Dinámicas de Coherencia.** Explica cómo mantener la coherencia mientras el sistema avanza a múltiples velocidades. Introduce conceptos clave como *Fijar Intención* (declarar el qué antes del cómo) y *Convergencia Progresiva* (cómo la exploración y la fundación se encuentran mediante la realimentación).
 
+* [📄 Dinámicas de Coherencia (PDF)](04%20Camino/_FilosofíaDeMovimiento.pdf)
 * [1. Coherencia en Movimiento](04%20Camino/1.%20Coherencia%20en%20Movimiento.md)
 * [2. Fijar Intención](04%20Camino/2.%20Fijar%20Intención.md)
 * [3. Regenerar con Sentido](04%20Camino/3.%20Regenerar%20con%20Sentido.md)
@@ -65,8 +69,9 @@ El cuerpo documental forma un todo consistente que guía al lector desde la abst
 ---
 
 ## [05 Travesía](05%20Travesí­a)
-**La Unidad de Trabajo.** Define el átomo del sistema: **El Artefacto**. Dejamos de pensar en ficheros sueltos para pensar en unidades vivas que agrupan Intención, Realización y Verificación. Aquí nace la distinción crítica entre *Artefactos Elementales* (dados, no regenerables) y *Derivados* (regenerables).
+**La Unidad Constructiva.** Define el átomo del sistema: **El Artefacto**. Dejamos de pensar en ficheros sueltos para pensar en unidades vivas que agrupan Intención, Realización y Verificación. Aquí nace la distinción crítica entre *Artefactos Elementales* (dados, no regenerables) y *Derivados* (regenerables).
 
+* [📄 Unidad Constructiva (PDF)](05%20Travesía/_UnidadOperativa.pdf)
 * [A. Artefactos Vivos](05%20Travesía/A.%20Artefactos%20Vivos.md)
 * [B. Intención, Realización y Verificación](05%20Travesía/B.%20Intención,%20Realización%20y%20Verificación.md)
 * [C. Ecosistema de Artefactos](05%20Travesía/C.%20Ecosistema%20de%20Artefactos.md)
@@ -75,8 +80,9 @@ El cuerpo documental forma un todo consistente que guía al lector desde la abst
 ---
 
 ## [06 Terreno](06%20Terreno)
-**El Entorno.** Describe dónde viven los artefactos y cómo se organizan. Introduce la estructura de la aplicación como un mapa semántico y el concepto de **Catálogo Vivo**: una herramienta que elimina la separación entre documentación y código ejecutándose en tiempo de desarrollo.
+**El Marco Estructural.** Describe dónde viven los artefactos y cómo se organizan. Introduce la estructura de la aplicación como un mapa semántico y el concepto de **Catálogo Vivo**: una herramienta que elimina la separación entre documentación y código ejecutándose en tiempo de desarrollo.
 
+* [📄 Marco Estructural (PDF)](06%20Terreno/_EntornoDeTrabajo.pdf)
 * [I. La Forma del Artefacto](06%20Terreno/I.%20La%20Forma%20del%20Artefacto.md)
 * [II. Artefactos en la Aplicación](06%20Terreno/II.%20Artefactos%20en%20la%20Aplicación.md)
 * [III. El Catálogo Vivo](06%20Terreno/III.%20El%20Catálogo%20Vivo.md)
@@ -86,8 +92,9 @@ El cuerpo documental forma un todo consistente que guía al lector desde la abst
 ---
 
 ## [07 Aterrizaje](07%20Aterrizaje)
-**La Operativa Diaria.** Es el manual de instrucciones para el día a día en el IDE. Define reglas explícitas para nombrar, crear y evolucionar artefactos, y establece cómo la IA debe comportarse: no como una caja negra, sino como un operador que sigue protocolos precisos de verificación e intención.
+**Principios Operativos.** Es el manual de instrucciones para el día a día en el IDE. Define reglas explícitas para nombrar, crear y evolucionar artefactos, y establece cómo la IA debe comportarse: no como una caja negra, sino como un operador que sigue protocolos precisos de verificación e intención.
 
+* [📄 Principios Operativos (PDF)](07%20Aterrizaje/_PrincipiosOperativos.pdf)
 * [0. Principios Operativos](07%20Aterrizaje/0.%20Principios%20Operativos.md)
 * [1. Estructura explícita del proyecto](07%20Aterrizaje/1.%20Estructura%20explícita%20del%20proyecto.md)
 * [2. El rol operativo de la IA](07%20Aterrizaje/2.%20El%20rol%20operativo%20de%20la%20IA.md)
